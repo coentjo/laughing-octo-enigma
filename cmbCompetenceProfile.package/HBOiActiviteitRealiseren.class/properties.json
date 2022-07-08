@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "HBOiActiviteit",
+	"category" : "cmbCompetenceProfile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HBOiActiviteitRealiseren",
+	"type" : "normal"
+}

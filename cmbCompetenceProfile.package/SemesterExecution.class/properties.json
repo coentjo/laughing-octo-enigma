@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "cmbCompetenceProfile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"period",
+		"name"
+	],
+	"name" : "SemesterExecution",
+	"type" : "normal"
+}

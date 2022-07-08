@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "cmbCompetenceProfile",
+	"classinstvars" : [
+		"lastUsedPcn"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pcn",
+		"semesters"
+	],
+	"name" : "Student",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ArchitectureLayer",
+	"category" : "cmbCompetenceProfile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ArchLayerOrganisationalProcesses",
+	"type" : "normal"
+}
