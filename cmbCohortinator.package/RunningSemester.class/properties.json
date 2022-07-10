@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "cmb 7/10/2022 16:01",
 	"super" : "Object",
 	"category" : "cmbCohortinator",
 	"classinstvars" : [ ],
@@ -9,6 +9,6 @@
 		"name",
 		"path"
 	],
-	"name" : "Cohort",
+	"name" : "RunningSemester",
 	"type" : "normal"
 }
